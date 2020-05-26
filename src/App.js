@@ -183,25 +183,11 @@ class App extends Component {
                         >
                             О программе
                         </PanelHeader>
-                        <Group title="Исходный код">
+                        <Group title="Разработчик">
                             <Div>
-                                Исходный код доступен на <Link
-                                href="https://github.com/tsivarev/noise">GitHub</Link>.
-                                <br/>
-                                <br/>
-                                Документация <Link href="https://vk.com/dev/vk_apps_docs">VK Apps платформы</Link>.
-                            </Div>
-                        </Group>
-                        <Group title="Используемые ресурсы">
-                            <List>
-                                <Cell multiline>
-                                    Иконки – <Link href="https://www.freepik.com">Freepik</Link>.
-                                    Лицензия <Link
-                                    href="https://creativecommons.org/licenses/by/3.0/">CC 3.0 BY</Link>.
-                                </Cell>
-                                <Cell multiline>
-                                    Звуки – <Link href="https://www.freesfx.co.uk/">freesfx.co.uk</Link>.
-                                </Cell>
+                                <Link
+                                href="https://vk.com/andreyhellow">Андрей</Link>.
+                                <br/
                             </List>
                         </Group>
                     </Panel>
